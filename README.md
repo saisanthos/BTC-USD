@@ -2,6 +2,8 @@
 
 Intraday BTC/USD candle data for the New York morning session, with a 5-period EMA of the close.
 
+**Author:** [saisanthos](https://github.com/saisanthos)
+
 ## Files
 
 | File | Interval | Session (NY time) | Rows |
